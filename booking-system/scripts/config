@@ -1,0 +1,4 @@
+user=node
+host=booking-system.cc
+root_dir=/home/node/workspace/github.com/beenotung/booking-system
+pm2_name="booking-system"

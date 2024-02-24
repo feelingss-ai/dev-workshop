@@ -1,0 +1,4 @@
+python_modules
+__pycache__
+model.tf
+sample

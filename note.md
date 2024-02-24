@@ -1,0 +1,53 @@
+# setup
+- install vscode with tabnine, prettier, errorlens, autorenametag, autoclosetag
+- install xcode if using Mac
+- install nodejs with nvm
+- install python with pym
+- install insomnium
+
+
+# teaching point
+- npm cli
+  - npm init
+  - npm script
+  - npm install (dep vs devDep)
+- typescript
+  - ts-node
+  - types
+- create a project with create-ts-liveview using v5-auth-template
+  - learn overall structure
+  - add new route (timeslot)
+- style
+  - put input in new line below the label
+- add new field (date, from_time, to_time, title)
+  - learn typescript error
+  - check cast.ts doc
+  - experience array data reset after restart
+- model database with erd.txt
+- seed sample data with better-sqlite3-proxy
+- add new api (make appointment)
+  - id in search query
+  - form post
+  - hidden input with id
+- DIY new api (view appointment list)
+  - in new route
+  - only visible to admin
+  - bold title and guest name
+  - fallback value if no remark
+- ionic (brief intro, self learn)
+- AI
+  - ipynb
+    - math
+    - string
+    - list
+    - dict
+    - import this
+  - setup venv
+  - install tensorflow, matplotlib, pillow, numpy
+  - tensorflow transfer learning
+    - https://www.tensorflow.org/tutorials/images/transfer_learning
+    - save the model
+  - web server with sanic
+    - insonia / postman
+    - dict vs object ['key']
+  - upload image (bonus)
