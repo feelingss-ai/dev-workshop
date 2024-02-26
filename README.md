@@ -1,5 +1,7 @@
 # Feelings Dev Workshop
 
+This workshop helps you get started on web dev and AI API development.
+
 See [note.md](./note.md) for list of recommended tools and checkpoints
 
 ## Video Recording
